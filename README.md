@@ -32,6 +32,7 @@ python-quiz-game
 
 
 🚀 How to Run
+
 Clone this repository:
 
 git clone https://github.com/ishaxplore/python-quiz-game.git
@@ -47,13 +48,19 @@ Run the application:
 python main.py
 
 📚 What I Learned
+
 Building GUI applications using Tkinter
+
 Fetching data from an API
+
 Working with Python classes and objects
+
 Handling user interactions
+
 Organizing a Python project into multiple modules
 
 👩‍💻 Author
+
 Isha
 
 B.Tech CSE (AI) Student | Aspiring Software Developer
