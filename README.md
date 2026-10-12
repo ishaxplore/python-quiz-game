@@ -20,7 +20,8 @@ Features
 
  Project Structure
  
-python-quiz-game/
+python-quiz-game
+
 ├── data.py
 ├── main.py
 ├── question_model.py
@@ -32,11 +33,17 @@ python-quiz-game/
 
 🚀 How to Run
 Clone this repository:
+
 git clone https://github.com/ishaxplore/python-quiz-game.git
+
 Open the project folder in PyCharm.
+
 Install the required dependency:
+
 python -m pip install requests
+
 Run the application:
+
 python main.py
 
 📚 What I Learned
@@ -48,4 +55,5 @@ Organizing a Python project into multiple modules
 
 👩‍💻 Author
 Isha
+
 B.Tech CSE (AI) Student | Aspiring Software Developer
